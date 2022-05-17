@@ -106,30 +106,15 @@ plt.show()
 ```
 ## Output:
 ### SOBEL EDGE DETECTOR
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+### SOBEL X:
 
+### SOBEL Y:
 
+### SOBEL XY:
 ### LAPLACIAN EDGE DETECTOR
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 ### CANNY EDGE DETECTOR
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
