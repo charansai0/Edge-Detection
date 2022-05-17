@@ -23,6 +23,12 @@ Display the filtered image using plot and imshow.
 ## Program:
 
 ``` 
+#Program to find the solution for the given linear equations.
+
+#Developed by: v.charan sai
+
+#RegisterNumber: 21003158
+
 import cv2
 import matplotlib.pyplot as plt
 image = cv2.imread("image1.png")
@@ -107,14 +113,16 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 ### SOBEL X:
+![output](https://github.com/charansai0/Edge-Detection/blob/main/11.png)
 
 ### SOBEL Y:
-
+![output](https://github.com/charansai0/Edge-Detection/blob/main/22.png)
 ### SOBEL XY:
+![output](https://github.com/charansai0/Edge-Detection/blob/main/33.png)
 ### LAPLACIAN EDGE DETECTOR
-
+![output](https://github.com/charansai0/Edge-Detection/blob/main/44.png)
 
 ### CANNY EDGE DETECTOR
-
+![output](https://github.com/charansai0/Edge-Detection/blob/main/55.png)
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
